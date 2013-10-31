@@ -5,7 +5,7 @@ COMP61011's mini project
 ---------------------------------------------------------------------
 
 This is the COMP61011's miniproject.
-The datasets 'digits' come from the book 'Machine Learning in Action',Peter Harrington,2012.
+The datasets 'digits' comes from the book 'Machine Learning in Action',Peter Harrington,2012.
 The datasets was modified from the assignment 'Optical Recognition of Handwritten Digits Data Set', E. Alpaydin, C. Kaynak, 2010
 ---------------------------------------------------------------------
 File:
